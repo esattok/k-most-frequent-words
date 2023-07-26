@@ -10,7 +10,7 @@
 - proctopk.c (Source File)
 - threadtopk.c (Source File)
 - Makefile (Makefile to Compile the Project)
-- Report.pdf (Experimental Results)
+- report.pdf (Experimental Results)
 
 ## How to Run
 
