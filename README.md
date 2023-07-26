@@ -35,7 +35,7 @@ $ make
 $ ./proctopk <K> <outfile> <N> <infile1> .... <infileN>
 ```
 
-##### Example run
+##### Example proctopk run
 
 ```
 $ make
@@ -48,7 +48,7 @@ $ ./proctopk 10 output.txt 3 input-01 input-02 input-03
 $ ./threadtopk <K> <outfile> <N> <infile1> .... <infileN>
 ```
 
-##### Example run
+##### Example threadtopk run
 
 ```
 $ make
