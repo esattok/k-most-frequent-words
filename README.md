@@ -39,7 +39,7 @@ $ ./proctopk <K> <outfile> <N> <infile1> .... <infileN>
 
 ```
 $ make
-$ ./proctopk 10 output.txt 3 input-01 input-02 input-03
+$ ./proctopk 10 output.txt 3 input-01.txt input-02.txt input-03.txt
 ```
 
 ##### Running the threadtopk program
@@ -52,5 +52,5 @@ $ ./threadtopk <K> <outfile> <N> <infile1> .... <infileN>
 
 ```
 $ make
-$ ./threadtopk 10 output.txt 3 input-01 input-02 input-03
+$ ./threadtopk 10 output.txt 3 input-01.txt input-02.txt input-03.txt
 ```
